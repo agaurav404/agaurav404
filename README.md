@@ -9,23 +9,23 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://itsadi.netlify.app/](https://itsadi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://itsadi.netlify.app](https://itsadi.netlify.app)
 
-- 📝 I regularly write articles on [https://itsadi.netlify.app/](https://itsadi.netlify.app/)
+- 📝 I regularly write articles on [https://itsadi.netlify.app](https://itsadi.netlify.app)
 
 - 💬 Ask me about **Anything Except Coding**
 
 - 📫 How to reach me **dphoenix595@gmail.com**
 
-- 📄 Know about my experiences [https://itsadi.netlify.app/assets/Adii%20Resume.pdf](https://itsadi.netlify.app/assets/Adii%20Resume.pdf)
+- 📄 Know about my experiences [https://itsadi.netlify.app](https://itsadi.netlify.app)
 
-- ⚡ Fun fact **I'm Humanoid Robot 😮‍💨**
+- ⚡ Fun fact **I'm A Humanoid Robot 😮‍💨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a_gaurav404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_gaurav404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/still building" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="still building" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/a.gaurav404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/a.gaurav404/" height="30" width="40" /></a>
+<a href="https://fb.com/a.gaurav404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.gaurav404" height="30" width="40" /></a>
 <a href="https://instagram.com/its_agaurav404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_agaurav404" height="30" width="40" /></a>
 </p>
 
