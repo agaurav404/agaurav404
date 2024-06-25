@@ -26,7 +26,7 @@
 <a href="https://twitter.com/a_gaurav404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_gaurav404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/still building" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="still building" height="30" width="40" /></a>
 <a href="https://fb.com/a.gaurav404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.gaurav404" height="30" width="40" /></a>
-<a href="https://instagram.com/its_agaurav404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_agaurav404" height="30" width="40" /></a>
+<a href="https://instagram.com/adi.d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_agaurav404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
